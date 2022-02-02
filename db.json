@@ -1,0 +1,15 @@
+{
+  "itens": [
+    {
+      "termo": "Bolo de chocolate Suflair 1kg",
+      "userId": "103194408771276489791",
+      "nomeCompleto": "Elivelton da Silva Santana",
+      "nomeItem": "Bolo de chocolate Suflair 1kg",
+      "descricaoItem": "Este bolo delicioso tem a nossa famosa massa de pão de ló de chocolate, recheado com duas camadas de uma mousse areada e cremosa, pedacinhos de chocolate suflair para completar o recheio e coberto com ganash de chocolate ao leite por apenas R$ 80,00.",
+      "valorItem": "80",
+      "url_imagem": "https://images.pexels.com/photos/5702943/pexels-photo-5702943.jpeg?auto=compress&cs=tinysrgb&h=130",
+      "url_imagem_media": "https://images.pexels.com/photos/5702943/pexels-photo-5702943.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": 1
+    }
+  ]
+}
